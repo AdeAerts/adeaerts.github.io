@@ -1,0 +1,117 @@
+@font-face {
+  font-family: 'test2';
+  src: url('fonts/coffee+teademo-Regular.ttf') format('truetype');
+}
+#nom_maphoto{
+  border-radius: 150px;
+}
+a{
+  color: #8E0056;
+  font-family: Lato;
+  font-size: 133%;
+}
+a:hover{
+  text-decoration: none;
+}
+#navbar {
+  border: 1px solid;
+  color: #8E0056;
+}
+p{
+  font-size: 23px;
+}
+#identite{
+  font-family: test2;
+  font-size: 30px;
+  color: #8E0056;
+}
+#parag1{
+  color:#8E0056;
+  font-family: test2;
+  font-size: 28px;
+  src: url('fonts/coffee+teademo-Regular.ttf') format('truetype');
+}
+td{
+  color: #8E0056;
+  font-family: test2;
+  src : url('fonts/coffee+teademo-Regular.ttf');
+  font-size: 25px;
+}
+@font-face {
+  font-family: 'titre';
+  src: url('fonts/Packaging Funny.otf') format('truetype');
+}
+h1{
+  font-family: 'titre';
+  src: url('fonts/Packaging Funny.otf') format('truetype');
+  color: #61638F;
+  font-size: 43px;
+}
+#parag{
+  color:#61638F;
+  font-family: test2;
+  font-size: 28px;
+  src: url('fonts/coffee+teademo-Regular.ttf') format('truetype');
+}
+#images{
+  border-radius: 10%;
+}
+#parag2{
+  color:#006D69;
+  font-family: test2;
+  font-size: 28px;
+  src: url('fonts/coffee+teademo-Regular.ttf') format('truetype');
+}
+#barre1{
+  color: #61638F;
+  font-family: Lato;
+  font-size: 133%;
+}
+#navbar1{
+  border: 1px solid;
+  color: #61638F;
+}
+#navbar2{
+  border: 1px solid;
+  color: #03AB2F;
+}
+#barre{
+  color: #03AB2F;
+  font-family: Lato;
+  font-size: 133%;
+}
+#team{
+  border-radius: 10px;
+}
+#navbar3{
+  border: 1px solid;
+  color: #0B0F5A;
+}
+#barre2{
+  color: #0B0F5A;
+  font-family: Lato;
+  font-size: 133%;
+}
+@font-face {
+  font-family: 'titre2';
+  src: url('fonts/lietome.otf') format('truetype');
+}
+h2{
+  font-family: 'titre2';
+  color: #0B0F5A;
+  font-size: 43px;
+}
+@font-face {
+  font-family: 'txt';
+  src: url('fonts/Myron.otf') format('truetype');
+}
+#txt{
+  font-family: 'txt';
+  color: #8E0056;
+}
+#parag3{
+  color:#0B0F5A;
+  font-family: test2;
+  font-size: 32px;
+  src: url('fonts/coffee+teademo-Regular.ttf') format('truetype');
+}
